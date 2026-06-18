@@ -1,38 +1,34 @@
-SQL Project II – Advanced SQL Practice
-Project Overview
+# Hospital Management System
 
-This project demonstrates my SQL skills through solving various business and analytical queries using MySQL. The project focuses on data retrieval, data analysis, and advanced SQL concepts commonly used in real-world scenarios.
+## Project Overview
 
-Skills Used
-SQL
-MySQL
-Joins
-Subqueries
-Aggregate Functions
-GROUP BY
-HAVING
-Window Functions
-Common Table Expressions (CTEs)
-Ranking Functions
-Key Tasks Performed
-Retrieved and analyzed data using SQL queries.
-Applied JOIN operations to combine data from multiple tables.
-Used aggregate functions for business insights.
-Implemented GROUP BY and HAVING clauses.
-Solved ranking and top-N analysis problems using Window Functions.
-Created analytical queries for reporting purposes.
-Tools Used
-MySQL
-SQL Workbench
-Project Files
-SQL Project II Presentation (PPT)
-SQL Queries
-Project Documentation
-Learning Outcome
+This project is a Hospital Management System database developed using MySQL. It is designed to manage and analyze hospital-related data such as patient details, doctor information, appointments, treatments, and billing records.
 
-This project helped me strengthen my understanding of SQL query writing, data analysis techniques, and database problem-solving skills.
+## Skills Used
 
-Author
+* SQL
+* MySQL
+* Joins
+* Subqueries
+* Aggregate Functions
+* GROUP BY
+* HAVING
+* Data Retrieval and Filtering
+* Database Design
 
-Praveenkumar T
-Data Analyst Aspirant
+## Project Features
+
+* Managed patient and doctor information.
+* Tracked appointments and treatment records.
+* Generated reports using SQL queries.
+* Analyzed hospital data using aggregate functions.
+* Retrieved meaningful insights through joins and subqueries.
+
+## Tools Used
+
+* MySQL
+* SQL Workbench
+
+## Learning Outcome
+
+This project helped me strengthen my understanding of relational database concepts, SQL query writing, data analysis techniques, and real-world database management. It also improved my ability to work with multiple tables and generate business insights from structured data.
